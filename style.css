@@ -1,0 +1,9 @@
+.display{
+    display:flex;
+}
+
+.marge{
+    margin-top: 4rem;
+    padding-left: 4rem;
+    font-size:1.5rem;
+}
