@@ -1,9 +1,15 @@
 .display{
     display:flex;
+    margin-top:4rem;
 }
 
 .marge{
+    
     margin-top: 4rem;
     padding-left: 4rem;
     font-size:1.5rem;
+}
+
+.profil-marge{
+    margin-left: 2rem;
 }
