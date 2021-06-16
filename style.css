@@ -1,3 +1,5 @@
+
+/* Corps */
 .display{
     display:flex;
     margin-top:4rem;
@@ -5,11 +7,43 @@
 
 .marge{
     
-    margin-top: 4rem;
+    margin-top: 3.5rem;
     padding-left: 4rem;
-    font-size:1.5rem;
+    font-size:1rem;
 }
 
 .profil-marge{
     margin-left: 2rem;
+}
+
+/* footer */
+.bg-color{
+    background-color:#f2bc3d;
+}
+
+.f-box{
+    display:flex;
+    justify-content:space-between;
+}
+
+.foot{
+    margin-top: 15rem;
+}
+
+.m-copy{
+    margin-left: 2rem;
+   
+}
+
+.m-by{
+    margin-right: 2rem;
+}
+
+.link-form{
+    margin-bottom: 3rem;
+}
+
+.logo-form{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
 }
