@@ -1,5 +1,7 @@
 
 /* Corps */
+
+
 .bgprofil{
     background-image:url("profil.png");
 	background-attachment:fixed;
@@ -8,13 +10,14 @@
 	background-size:cover;
     opacity:1;
 	height:80vh;
-	width:100%;
+	
 }
 
 .para-form{
     align-items: center;
     padding-top: 10rem;
-    padding-left: 3rem;
+    padding-left: 5rem;
+    
 }
 
 .para1{
@@ -33,12 +36,44 @@
 }
 
 .p-marge{
+    text-align: justify;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.background{
+    margin-top: -10rem;
+    background-color: gray;
+    padding: 5rem;
+    opacity: 0.85;
+    
+}
+
+.d-real{
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem;
+    background-color: black;
+    opacity: 0.8;
+}
+
+.d-exp4{
+    padding-top: 3rem;
+}
+
+.d-exp3{
     padding-top: 3rem;
 }
 
 /* footer */
 .bg-color{
     background-color:#f2bc3d;
+    width: 100%;
 }
 
 .f-box{
@@ -46,9 +81,6 @@
     justify-content:space-between;
 }
 
-.foot{
-    margin-top: 15rem;
-}
 
 .m-copy{
     margin-left: 2rem;
