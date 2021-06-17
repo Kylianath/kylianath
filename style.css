@@ -1,19 +1,39 @@
 
 /* Corps */
-.display{
-    display:flex;
-    margin-top:4rem;
+.bgprofil{
+    background-image:url("profil.png");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+    opacity:1;
+	height:80vh;
+	width:100%;
 }
 
-.marge{
-    
-    margin-top: 3.5rem;
-    padding-left: 4rem;
-    font-size:1rem;
+.para-form{
+    align-items: center;
+    padding-top: 10rem;
+    padding-left: 3rem;
 }
 
-.profil-marge{
-    margin-left: 2rem;
+.para1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4rem;
+
+}
+
+.para2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+}
+
+.color{
+    color: #f2bc3d;
+}
+
+.p-marge{
+    padding-top: 3rem;
 }
 
 /* footer */
