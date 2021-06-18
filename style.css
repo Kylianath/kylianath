@@ -1,5 +1,35 @@
 
+<<<<<<< HEAD
 
 
 
 
+=======
+.bgprofil{
+    background-image:url("Ressources/profilb.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	height:80vh;
+	
+}
+
+.d-back{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3rem;
+}
+
+.div2{
+    background-color: gray;
+    opacity: 0.95;
+    margin-top: -10rem;
+    height: 80vh;
+    padding: 5rem;
+}
+
+.text{
+    text-align: justify;
+}
+>>>>>>> corps
