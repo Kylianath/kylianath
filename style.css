@@ -3,13 +3,12 @@
 
 
 .bgprofil{
-    background-image:url("profil.png");
+    background-image:url("Ressources/profilb.jpg");
 	background-attachment:fixed;
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
-    opacity:1;
-	height:80vh;
+	height:100vh;
 	
 }
 
@@ -58,44 +57,45 @@
     display: flex;
     justify-content: space-between;
     padding: 5rem;
-    background-color: black;
-    opacity: 0.8;
+    background-color: gray;
+    
 }
 
 .d-exp4{
     padding-top: 3rem;
+    display: flex;
+    align-items: center;
 }
 
 .d-exp3{
     padding-top: 3rem;
+    display: flex;
+    align-items: center;
 }
 
-/* footer */
-.bg-color{
-    background-color:#f2bc3d;
-    width: 100%;
+.d-p1{
+    display: flex;
+    align-items: center;
 }
 
-.f-box{
-    display:flex;
-    justify-content:space-between;
+.p-p1{
+    padding-left: 3rem;
 }
 
-
-.m-copy{
-    margin-left: 2rem;
-   
+.p-p2{
+    padding-left: 3rem;
 }
 
-.m-by{
-    margin-right: 2rem;
+.p-p3{
+    padding-left: 3rem;
 }
 
-.link-form{
-    margin-bottom: 3rem;
+.p-p4{
+    padding-left: 3rem;
 }
 
-.logo-form{
-    margin-top: 1rem;
-    margin-left: 1.5rem;
+.d-p2{
+    display: flex;
+    align-items: center;
 }
+
