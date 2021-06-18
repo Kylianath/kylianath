@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+=======
+
+
+
+/* footer */
+.bg-color{
+    background-color:#b0c7e2;
+    width: 100%;
+}
+
+.f-box{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.m-copy{
+    margin-left: 2rem;
+   
+}
+
+.m-by{
+    margin-right: 2rem;
+}
+
+.link-form{
+    margin-bottom: 3rem;
+}
+
+.logo-form{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+}
+
+>>>>>>> footer
