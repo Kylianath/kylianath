@@ -69,33 +69,3 @@
 .d-exp3{
     padding-top: 3rem;
 }
-
-/* footer */
-.bg-color{
-    background-color:#f2bc3d;
-    width: 100%;
-}
-
-.f-box{
-    display:flex;
-    justify-content:space-between;
-}
-
-
-.m-copy{
-    margin-left: 2rem;
-   
-}
-
-.m-by{
-    margin-right: 2rem;
-}
-
-.link-form{
-    margin-bottom: 3rem;
-}
-
-.logo-form{
-    margin-top: 1rem;
-    margin-left: 1.5rem;
-}
