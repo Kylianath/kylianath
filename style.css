@@ -3,12 +3,12 @@
 
 
 .bgprofil{
-    background-image:url("profil.png");
+    background-image:url("Ressources/profilb.jpg");
 	background-attachment:fixed;
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
-    opacity:1;
+    
 	height:80vh;
 	
 }
