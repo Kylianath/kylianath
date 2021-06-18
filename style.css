@@ -1,44 +1,10 @@
 
-/* Corps */
-.bgprofil{
-    background-image:url("profil.png");
-	background-attachment:fixed;
-	background-repeat:no-repeat;
-	background-position:center;
-	background-size:cover;
-    opacity:1;
-	height:80vh;
-	width:100%;
-}
 
-.para-form{
-    align-items: center;
-    padding-top: 10rem;
-    padding-left: 3rem;
-}
-
-.para1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 4rem;
-
-}
-
-.para2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 3rem;
-}
-
-.color{
-    color: #f2bc3d;
-}
-
-.p-marge{
-    padding-top: 3rem;
-}
 
 /* footer */
 .bg-color{
-    background-color:#f2bc3d;
+    background-color:#b0c7e2;
+    width: 100%;
 }
 
 .f-box{
@@ -46,9 +12,6 @@
     justify-content:space-between;
 }
 
-.foot{
-    margin-top: 15rem;
-}
 
 .m-copy{
     margin-left: 2rem;
@@ -67,3 +30,4 @@
     margin-top: 1rem;
     margin-left: 1.5rem;
 }
+
