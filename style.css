@@ -1,12 +1,30 @@
 
+
+
+
+
 .bgprofil{
     background-image:url("Ressources/profilb.jpg");
 	background-attachment:fixed;
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
-	height:80vh;
+	height:100vh;
 	
+}
+
+.para{
+    padding-top: 3rem;
+}
+
+.para1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+}
+
+.para2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
 }
 
 .d-back{
